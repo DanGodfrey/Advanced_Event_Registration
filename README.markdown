@@ -4,10 +4,13 @@ This plugin as well as its original branch, are openly distributed using the GNU
 
 The original branch of this plugin is now known as "Event Espresso" and is on version 2.1.28 as of this posting.
 
+Be sure to check out Seth at http://eventespresso.com/ or http://twitter.com/eventespresso
+
 ##New Features in this version:
 
--Localization (Canadian) - Later version of original branch included multiple configurations based on location
++ Localization (Canadian) - Later version of original branch included multiple configurations based on location
 
--Auto-Generation of Wordpress user accounts for *paid* attendees.
++ A few bug fixes, some of which made their way into later versions of the plugin. 
 
- Changes can be found in process_payments.php
++ Auto-Generation of Wordpress user accounts for *paid* attendees. This is the **Meat and Potatoes** of this version of the plugin. When payment confirmation is received for an attendee, a WordPress user account is automatically generated for that attendee such that: {"username": <attendeeFirstName>"_"<attendeeLastName>, "password": <randomlyGenerated>, "FirstName":<attendeeFirstName>, "LastName": <attendeeLastName>, "Email": <attendeeEmail>,"Role": "-No role for this site-"} 
+These changes can be found in includes/process_payments.php 
