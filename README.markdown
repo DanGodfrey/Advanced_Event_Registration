@@ -6,6 +6,8 @@ The original branch of this plugin is now known as "Event Espresso" and is on ve
 
 Be sure to check out [@Seth](http://twitter.com/eventespresso)
 
+**SEE "original_readme.txt" FOR INSTALLATION INSTRUCTIONS AND OTHER DETAILS**
+
 ##New Features in this version:
 
 + Localization (Canadian) - Later version of original branch included multiple configurations based on location
