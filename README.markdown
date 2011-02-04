@@ -1,10 +1,10 @@
-##**This application was originally forked from the "Advanced Events Registration" plugin version 2.1.17 by Seth Shoultes**
+##**This application was originally forked from the "Advanced Events Registration" plugin version 2.1.17 by Seth Shoultes. Not Found on Github**
 
 This plugin as well as its original branch, are openly distributed using the GNU General Public License.
 
 The original branch of this plugin is now known as "Event Espresso" and is on version 2.1.28 as of this posting.
 
-Be sure to check out Seth at (http://eventespresso.com/) or (http://twitter.com/eventespresso)
+Be sure to check out [@Seth](http://twitter.com/eventespresso)
 
 ##New Features in this version:
 
